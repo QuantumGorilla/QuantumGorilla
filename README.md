@@ -5,7 +5,7 @@ Welcome to my humble github profile!👋😎
 - ⚡  I'm a enthusiast of videogames, web, networks and physics. 
 - 🎼  Amateur musician, likes to play guitar, ukelele, bass and percussion.
 - 🌐  Advanced level in english and basic level of italian, spanish native speaker.
-- 👾  8th semester student of software engineering at Universidad del Norte.
+- 👾  8th semester student of System engineering and computer sciences at Universidad del Norte.
 
 <div align="center">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="50px" height="50px"/>
