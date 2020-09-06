@@ -15,5 +15,5 @@ Welcome to my humble github profile!👋😎
   <img src="https://cdn2.iconfinder.com/data/icons/popular-games-1/50/unreal_squircle-512.png" alt="unreal" width="50px" height="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="50px"
   height="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="50px" height="50px/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="100px" height="50px"/>
 </div>
