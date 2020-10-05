@@ -1,12 +1,15 @@
-# Hi there 👋
+# Hi there 👋 <img src="https://emojis.slackmojis.com/emojis/images/1495224259/2303/nyan_parrot.gif?1495224259" alt="gif-bird">
 Welcome to my humble github profile!👋😎
 
+<!--About me-->
 ## I'm Alejandro Manotas <img src=https://flagpedia.net/data/flags/icon/16x12/co.webp atl="co"/>
 - ⚡  I'm a enthusiast of videogames, web, networks and physics. 
 - 🎼  Amateur musician, likes to play guitar, ukelele, bass and percussion.
 - 🌐  Advanced level in english and basic level of italian, spanish native speaker.
 - 👾  8th semester student of System engineering and computer sciences at Universidad del Norte.
 
+<!--Languages i use-->
+## Some of the languages i mostly use
 <div align="center">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="50px" height="50px"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50px" height="50px"/>
@@ -17,3 +20,7 @@ Welcome to my humble github profile!👋😎
   height="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="100px" height="50px"/>
 </div>
+
+<!--Random gifs-->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif?1460579133" alt="doom-guy"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://emojis.slackmojis.com/emojis/images/1450458394/182/pikachu.gif?1450458394" alt="pikachu" width="30px" height="30px"></a>
