@@ -9,7 +9,6 @@ Welcome to my humble github profile!👋😎
 - 👾  8th semester student of System engineering and computer sciences at Universidad del Norte.
 
 <!--Languages i use-->
-## Some of the languages i mostly use
 <div align="center">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="50px" height="50px"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50px" height="50px"/>
