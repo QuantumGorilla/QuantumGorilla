@@ -6,7 +6,7 @@ Welcome to my humble github profile!👋😎
 - ⚡  I'm a enthusiast of videogames, web, networks and physics. 
 - 🎼  Amateur musician, likes to play guitar, ukelele, bass and percussion.
 - 🌐  Advanced level in english and basic level of italian, spanish native speaker.
-- 👾  8th semester student of System engineering and computer sciences at Universidad del Norte.
+- 👾  Student of System engineering and computer sciences at Universidad del Norte.
 
 <!--Languages i use-->
 <div align="center">
@@ -29,4 +29,5 @@ Welcome to my humble github profile!👋😎
 <a href="https://www.youtube.com/watch?v=pbnYoQgb9ZA"><img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" alt="megaman" width="30px" height="30px"></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://emojis.slackmojis.com/emojis/images/1487860475/1782/sickblue-mario.gif?1487860475" alt="sickMario" width="30px" height="30px"></a>
 <a href="https://www.youtube.com/watch?v=5F_Kj5xgAcg"><img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif?1598364417" alt="keanu" width="30px" height="30px"></a>
+<a href="https://www.youtube.com/watch?v=WAoPeG1LU1g"><img src="https://emojis.slackmojis.com/emojis/images/1605479284/10796/among_us_party.gif?1605479284" alt="amongus-party" width="30px" height="30px"/></a>
 </div>
