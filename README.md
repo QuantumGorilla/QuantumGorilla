@@ -1,6 +1,9 @@
 <!--Github stats-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuantumGorilla&show_icons=true&theme=synthwave)](https://github.com/QuantumGorilla/github-readme-stats)
 
+<!--Top langs-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumGorilla&layout=compact&theme=synthwave)](https://github.com/QuantumGorilla/github-readme-stats)
+
 <!--Random gifs-->
 <div align="center">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif?1460579133" alt="doom-guy" width="30px" height="30px"></a>
